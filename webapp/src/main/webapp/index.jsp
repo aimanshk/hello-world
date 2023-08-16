@@ -1,7 +1,7 @@
 <form action="action_page.php">
   <div class="container">
     <h1>Signup for MyRetailShopee</h1>
-    <p>Please fill in credentials</p>
+    <p>Create a free account</p>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
@@ -16,7 +16,7 @@
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
-    <label for="psw"><b>Password</b></label>
+    <label for="psw"><b>Enter Password</b></label>
     <input type="password" placeholder="Enter Password" name="psw" id="psw" required>
     <br>
 
@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> Happy Shopping </h1>
+   <h1> Happy Shopping :) </h1>
 
   
 </form>
